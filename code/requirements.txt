@@ -11,3 +11,5 @@ torch==1.11.0
 seaborn
 ipykernel
 wandb
+tqdm
+konlpy
