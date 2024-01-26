@@ -10,4 +10,7 @@ protobuf==3.15.8
 torch==1.11.0
 seaborn
 ipykernel
-wandb
+wandb==0.13.3
+tqdm
+konlpy
+IPython==8.16.1
